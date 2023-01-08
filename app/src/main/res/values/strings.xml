@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Dulces Popayán</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Dulces Tradicionales Popayán</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Rutas</string>
+    <string name="menu_slideshow">Dulces</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="ruta_1">Ruta 1</string>
+    <string name="ruta_2">Ruta 2</string>
+    <string name="ruta_3">Ruta 3</string>
+    <string name="inicio">Disfruta de una dulce guía conociendo Popayán</string>
+    <string name="hello_blank_fragment">Información</string>
+    <string name="see_button">Ver</string>
+    <string name="tienda">Tienda</string>
+    <string name="register">Registrar</string>
+    <string name="login">Login</string>
+    <string name="email">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="information">Con la Aplicación Dulces Popayán podrás conocer la cultura y el sabor de los dulces tradicionales
+        de la maravillosa cuidad blanca mientras te dejas encantar por sus calles hermosas, historicas y mágicas. </string>
+
+</resources>
